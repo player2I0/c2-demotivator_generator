@@ -20021,6 +20021,9 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.projectversion,
 	cr.plugins_.Button.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Button.prototype.acts.SetChecked,
+	cr.system_object.prototype.acts.SetVar,
+	cr.system_object.prototype.exps.choose,
+	cr.system_object.prototype.cnds.CompareVar,
 	cr.plugins_.LocalStorage.prototype.cnds.OnItemGet,
 	cr.plugins_.TextBox.prototype.acts.SetText,
 	cr.plugins_.LocalStorage.prototype.exps.ItemValue,
@@ -20033,6 +20036,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.SetCanvasSize,
 	cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
 	cr.plugins_.LocalStorage.prototype.acts.SetItem,
+	cr.system_object.prototype.exps["int"],
 	cr.plugins_.Button.prototype.cnds.OnClicked,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.plugins_.Button.prototype.cnds.IsChecked,
@@ -20046,5 +20050,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text.prototype.acts.SetFontColor,
 	cr.system_object.prototype.exps.rgb,
 	cr.plugins_.Text.prototype.acts.SetFontSize,
-	cr.system_object.prototype.cnds.PickAll
+	cr.system_object.prototype.cnds.PickAll,
+	cr.plugins_.TextBox.prototype.acts.SetVisible,
+	cr.plugins_.LocalStorage.prototype.cnds.CompareValue,
+	cr.system_object.prototype.exps.str
 ];};
