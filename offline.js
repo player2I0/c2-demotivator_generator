@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1615483298,
+	"version": 1615485222,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"loading-logo.png",
 		"font.css",
 		"timesnewromanpsmt.woff",
-		"timesnewromanpsmt.woff2"
+		"timesnewromanpsmt.woff2",
+		"style.css"
 	]
 }
