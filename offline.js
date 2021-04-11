@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1616439034,
+	"version": 1618167342,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/preview-sheet0.png",
 		"images/loading-sheet0.png",
 		"images/img-sheet0.png",
+		"images/img-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -19,6 +20,7 @@
 		"font.css",
 		"timesnewromanpsmt.woff",
 		"timesnewromanpsmt.woff2",
-		"style.css"
+		"style.css",
+		"lang.xml"
 	]
 }

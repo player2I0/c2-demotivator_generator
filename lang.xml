@@ -1,0 +1,34 @@
+<lang>
+	<en>
+		<buttons>
+			<pre>(P) Preview</pre>
+			<con>(S) Convert</con>
+			<cop>Copy</cop>
+			<b>Back</b>
+			<cPng> PNG</cPng>
+			<cJpeg> JPEG</cJpeg>
+		</buttons>
+		<textboxes>
+			<name>Image's name</name>
+			<cJpeg>JPEG quality (1 - 100)</cJpeg>
+			<title>Title</title>
+			<subtitle>Subtitle</subtitle>
+		</textboxes>
+	</en>
+	<ru>
+		<buttons>
+			<pre>(P) Предпросмотр</pre>
+			<con>(S) Сохранить</con>
+			<cop>Копировать</cop>
+			<b>Назад</b>
+			<cPng> PNG</cPng>
+			<cJpeg> JPEG</cJpeg>
+		</buttons>
+		<textboxes>
+			<name>Имя картинки</name>
+			<cJpeg>Качество JPEG (1 - 100)</cJpeg>
+			<title>Заголовок</title>
+			<subtitle>Текст</subtitle>
+		</textboxes>
+	</ru>
+</lang>
