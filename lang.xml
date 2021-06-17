@@ -7,7 +7,6 @@
 			<b>Back</b>
 			<cPng> PNG</cPng>
 			<cJpeg> JPEG</cJpeg>
-			<conM>Continue anyway</conM>
 		</buttons>
 		<textboxes>
 			<name>Image's name</name>
@@ -24,7 +23,6 @@
 			<b>Назад</b>
 			<cPng> PNG</cPng>
 			<cJpeg> JPEG</cJpeg>
-			<conM>Всё равно продолжить</conM>
 		</buttons>
 		<textboxes>
 			<name>Имя картинки</name>
