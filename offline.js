@@ -1,26 +1,25 @@
 ﻿{
-	"version": 1623954139,
+	"version": 1650486069,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"images/image-sheet0.png",
-		"images/imageoutline.png",
-		"images/preview-sheet0.png",
-		"images/loading-sheet0.png",
 		"images/img-sheet0.png",
-		"images/img-sheet1.png",
+		"images/border.png",
+		"images/resmark-sheet0.png",
+		"images/selmark-sheet0.png",
+		"images/sl-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"font.css",
-		"timesnewromanpsmt.woff",
-		"timesnewromanpsmt.woff2",
 		"style.css",
-		"lang.xml"
+		"c2mp-net.js",
+		"c2mp-peer.js",
+		"c2mp.js",
+		"waker.js"
 	]
 }
